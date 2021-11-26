@@ -1,0 +1,279 @@
+FICHERO.TXT
+
+ Palabra: ATENTADO; Numero de Linea: 2; 2 veces;
+
+ Palabra: BOMBA; Numero de Linea: 1; 5 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 8; 2 veces;
+
+ Palabra: DROGA; Numero de Linea: 9; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 12; 3 veces;
+
+ Palabra: BOMBA; Numero de Linea: 25; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 31; 5 veces;
+
+ Palabra: BOMBA; Numero de Linea: 37; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 49; 5 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 50; 2 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 56; 2 veces;
+
+ Palabra: DROGA; Numero de Linea: 57; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 60; 3 veces;
+
+ Palabra: BOMBA; Numero de Linea: 73; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 79; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 85; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 97; 2 veces;
+
+ Palabra: DROGA; Numero de Linea: 105; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 108; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 115; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 121; 5 veces;
+
+ Palabra: BOMBA; Numero de Linea: 127; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 140; 2 veces;
+
+ Palabra: BOMBA; Numero de Linea: 139; 5 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 146; 2 veces;
+
+ Palabra: DROGA; Numero de Linea: 147; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 150; 3 veces;
+FICHERO2.TXT
+
+ Palabra: BOMBA; Numero de Linea: 1; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 7; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 13; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 25; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 33; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 36; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 37; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 44; 2 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 48; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 62; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 67; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 69; 1 veces;
+
+ Palabra: TERRORISMO; Numero de Linea: 71; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 72; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 75; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 78; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 85; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 91; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 97; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 109; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 117; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 120; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 121; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 128; 2 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 132; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 146; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 151; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 153; 1 veces;
+
+ Palabra: TERRORISMO; Numero de Linea: 155; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 156; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 159; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 162; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 169; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 175; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 181; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 193; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 201; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 204; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 205; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 212; 2 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 216; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 230; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 235; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 237; 1 veces;
+
+ Palabra: TERRORISMO; Numero de Linea: 239; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 240; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 243; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 246; 1 veces;
+FICHERO3.TXT
+
+ Palabra: BOMBA; Numero de Linea: 1; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 7; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 13; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 25; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 33; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 36; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 37; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 44; 2 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 48; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 62; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 67; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 69; 1 veces;
+
+ Palabra: TERRORISMO; Numero de Linea: 71; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 72; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 75; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 78; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 85; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 91; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 97; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 109; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 117; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 120; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 121; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 128; 2 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 132; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 146; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 151; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 156; 1 veces;
+
+ Palabra: TERRORISMO; Numero de Linea: 155; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 153; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 159; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 162; 1 veces;
+FICHERO4.TXT
+
+ Palabra: BOMBA; Numero de Linea: 1; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 7; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 13; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 25; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 33; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 36; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 37; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 44; 2 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 48; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 62; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 67; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 69; 1 veces;
+
+ Palabra: TERRORISMO; Numero de Linea: 71; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 72; 1 veces;
+
+ Palabra: DROGA; Numero de Linea: 75; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 78; 1 veces;
+FICHERO5.TXT
+
+ Palabra: BOMBA; Numero de Linea: 1; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 7; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 13; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 25; 2 veces;
+
+ Palabra: DROGA; Numero de Linea: 33; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 36; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 43; 1 veces;
+
+ Palabra: BOMBA; Numero de Linea: 49; 5 veces;
+
+ Palabra: BOMBA; Numero de Linea: 55; 1 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 68; 2 veces;
+
+ Palabra: BOMBA; Numero de Linea: 67; 5 veces;
+
+ Palabra: ATENTADO; Numero de Linea: 74; 2 veces;
+
+ Palabra: DROGA; Numero de Linea: 75; 1 veces;
+
+ Palabra: ILEGAL; Numero de Linea: 78; 3 veces;
